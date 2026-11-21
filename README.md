@@ -8,7 +8,7 @@ Each notebook goes with an article. Read the article for the reasoning, and run 
 
 | # | Notebook | Article |
 |---|---|---|
-| 1.1 | [1.1 Starting Universe (EDGAR, point-in-time)](<link to notebook>) | [The Anatomy of a Starting Universe](https://thepfplumber.substack.com/p/11-the-anatomy-of-a-starting-universe) |
+| 1.1 | [1.1 Starting Universe](https://github.com/thepfplumber/indexing-guide/blob/main/1.1%20Starting%20Universe.ipynb) | [The Anatomy of a Starting Universe](https://thepfplumber.substack.com/p/11-the-anatomy-of-a-starting-universe) |
 
 Notebooks are numbered to match the articles and build on one another. Later notebooks may use outputs from earlier ones, so run them in order.
 
